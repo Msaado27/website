@@ -1,0 +1,26 @@
+---
+title: "SQL"
+output: html_document
+---
+
+# This is a level one header
+## This is a level two header
+### This is a level three header
+
+Fro paragraphes, you dont need anything special.
+
+* items 1
+* items 2
+* items 3
+* items 4
+
+Column 1 | Column 2
+------|------
+phillies | National
+Yankess | American
+Cubs | National
+Red Sox | American
+
+![](logo.jpg)
+
+<img src="logo.jpg" width="300" />
